@@ -1,2 +1,2 @@
 # Lost-in-Forest
-A game called lost in forest using python
+- A game called lost in forest using python
